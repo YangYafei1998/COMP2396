@@ -8,7 +8,7 @@
 
 - Make sure you have `npm` and `node` installed (reference: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm).
 - Install nvm and yarn (reference: https://gist.github.com/nijicha/e5615548181676873118df79953cb709).
-- Change the version of node to 11 `nvm use 11`.
+- Change the version of node to 11 using `nvm use 11`.
 - Install the dependencies using `npm install --dev`.
 
 ## Database 
